@@ -19,7 +19,7 @@
 Master's student in Data Science and Artificial Intelligence, focused on **generative AI** and **agentic systems**: LLM applications, retrieval-augmented generation, and agents that plan, use tools and verify their own work. I also teach data science and enjoy turning complex ideas into clear, hands-on material.
 
 <p align="center">
-  <img src=""C:\Users\OMEN\Downloads\agent-loop.svg"" alt="Agentic AI loop" width="100%" />
+  <img src="agent-loop.svg" alt="Agentic AI loop" width="100%" />
 </p>
 
 ## Areas of work
