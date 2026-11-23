@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Based%20in-France-30363d?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Generative%20AI%20%26%20Agents-6e40c9?style=flat-square" />
-  <a href="https://www.linkedin.com/in/TON_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/TON_LINKEDIN](https://www.linkedin.com/in/aya-ait-mohand-b91623231/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPK3al2KoSJOppd1omi%2B%2BFw%3D%3D)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ## About
