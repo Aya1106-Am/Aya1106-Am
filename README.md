@@ -1,7 +1,7 @@
 <!-- Remplace TON_USERNAME et TON_LINKEDIN partout -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=170&section=header&text=Aya%20Ait%20Mohand&fontSize=58&fontAlignY=42&animation=fadeIn&desc=Generative%20AI%20%7C%20Agentic%20Systems&descAlignY=68&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=170&section=header&text=Aya&fontSize=58&fontAlignY=42&animation=fadeIn&desc=Generative%20AI%20%7C%20Agentic%20Systems&descAlignY=68&descSize=20" width="100%" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=8B949E&center=true&vCenter=true&width=760&height=40&lines=Generative+AI+and+LLM+applications;Agentic+systems%3A+planning%2C+tool+use%2C+memory;Retrieval-augmented+generation+%26+evaluation" alt="Focus areas" />
