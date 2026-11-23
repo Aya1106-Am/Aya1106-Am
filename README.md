@@ -1,7 +1,7 @@
 <!-- Remplace TON_USERNAME et TON_LINKEDIN partout -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=170&section=header&text=AyaAitMohand&fontSize=58&fontAlignY=42&animation=fadeIn&desc=Generative%20AI%20%7C%20Agentic%20Systems&descAlignY=68&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=170&section=header&text=Aya Ait Mohand&fontSize=58&fontAlignY=42&animation=fadeIn&desc=Generative%20AI%20%7C%20Agentic%20Systems&descAlignY=68&descSize=20" width="100%" />
 </p>
 
 <p align="center">
