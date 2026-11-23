@@ -1,8 +1,9 @@
-<!-- Remplace TON_USERNAME et TON_LINKEDIN partout -->
+<!-- Remplace TON_LINKEDIN par ton identifiant LinkedIn -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=170&section=header&text=Aya&fontSize=58&fontAlignY=42&animation=fadeIn&desc=Generative%20AI%20%7C%20Agentic%20Systems&descAlignY=68&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=170&section=header&text=Aya%20Ait%20Mohand&fontSize=58&fontAlignY=42&animation=fadeIn&desc=Generative%20AI%20%7C%20Agentic%20Systems&descAlignY=68&descSize=20" width="100%" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=8B949E&center=true&vCenter=true&width=760&height=40&lines=Generative+AI+and+LLM+applications;Agentic+systems%3A+planning%2C+tool+use%2C+memory;Retrieval-augmented+generation+%26+evaluation" alt="Focus areas" />
 </p>
@@ -44,39 +45,3 @@ flowchart LR
     A --> M
     M --> P
     P --> O([Answer + sources])
-```
-
-## Tech stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-6e40c9?style=flat-square" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-
-## Selected projects
-
-<!-- Garde uniquement les repos qui existent vraiment et sont publics -->
-
-| Project | Description | Stack |
-|---|---|---|
-| [MOM Generator](https://github.com/TON_USERNAME/mom-generator) | LLM assistant that turns meeting recordings into structured minutes | Python, LLM, speech-to-text |
-| [GAN Playground](https://github.com/TON_USERNAME/gan-mnist) | Autoencoder and GAN trained on MNIST, with generated samples | PyTorch |
-| [Agent Project 1](https://github.com/TON_USERNAME/agent-project-1) | Tool-using agent with planning and memory | LangGraph, Python |
-| [Agent Project 2](https://github.com/TON_USERNAME/agent-project-2) | Multi-agent workflow with evaluation | Python |
-
-## GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
